@@ -68,6 +68,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marcleibold/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"/></a>
- <a href="https://www.linkedin.com/in/marcleibold/"><img src="https://img.shields.io/badge/Mail-cd3c30?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" height="25"/></a> 
+ <a href="mailto:leibold485@gmail.com"><img src="https://img.shields.io/badge/Mail-cd3c30?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" height="25"/></a> 
  <a href="https://hub.docker.com/u/marcleibold"><img src="https://img.shields.io/badge/Docker%20Hub-319def?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" height="25"/></a>
 </p>
